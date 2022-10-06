@@ -1,0 +1,10 @@
+.working {
+  border: 1px solid black;
+}
+.done {
+  border: 1px solid black;
+}
+
+.listTilte {
+  padding: 10px;
+}
